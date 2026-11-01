@@ -1,0 +1,2 @@
+# Los backups son datos: sin conversion de saltos de linea, para que el hash de cada archivo sea el mismo en todos lados.
+* -text

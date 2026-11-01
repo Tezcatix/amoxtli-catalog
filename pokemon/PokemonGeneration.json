@@ -1,0 +1,11 @@
+[
+{"id":1,"external_id":1,"name":"Generation-i","region":"kanto"},
+{"id":2,"external_id":2,"name":"Generation-ii","region":"johto"},
+{"id":3,"external_id":3,"name":"Generation-iii","region":"hoenn"},
+{"id":4,"external_id":4,"name":"Generation-iv","region":"sinnoh"},
+{"id":5,"external_id":5,"name":"Generation-v","region":"unova"},
+{"id":6,"external_id":6,"name":"Generation-vi","region":"kalos"},
+{"id":7,"external_id":7,"name":"Generation-vii","region":"alola"},
+{"id":8,"external_id":8,"name":"Generation-viii","region":"galar"},
+{"id":9,"external_id":9,"name":"Generation-ix","region":"paldea"}
+]

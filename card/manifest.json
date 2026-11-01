@@ -1,0 +1,1931 @@
+[
+    {
+        "expansion_code": "base1",
+        "logo_url": "https://images.pokemontcg.io/base1/logo.png",
+        "palette": [
+            "#f1bb2b",
+            "#36559c",
+            "#ba1c2a"
+        ],
+        "card_count": 102,
+        "data_bytes_estimate": 893417,
+        "avg_image_bytes": 856683
+    },
+    {
+        "expansion_code": "base2",
+        "logo_url": "https://images.pokemontcg.io/base2/logo.png",
+        "palette": [
+            "#3e9c45"
+        ],
+        "card_count": 64,
+        "data_bytes_estimate": 560771,
+        "avg_image_bytes": 797828
+    },
+    {
+        "expansion_code": "base3",
+        "logo_url": "https://images.pokemontcg.io/base3/logo.png",
+        "palette": [
+            "#c0a169",
+            "#2d2444",
+            "#39171a"
+        ],
+        "card_count": 62,
+        "data_bytes_estimate": 543356,
+        "avg_image_bytes": 830035
+    },
+    {
+        "expansion_code": "base4",
+        "logo_url": "https://images.pokemontcg.io/base4/logo.png",
+        "palette": [
+            "#fb1b11",
+            "#324d62"
+        ],
+        "card_count": 130,
+        "data_bytes_estimate": 1139681,
+        "avg_image_bytes": 866340
+    },
+    {
+        "expansion_code": "base5",
+        "logo_url": "https://images.pokemontcg.io/base5/logo.png",
+        "palette": [
+            "#eb2346",
+            "#4c9fba",
+            "#3d3427"
+        ],
+        "card_count": 83,
+        "data_bytes_estimate": 727651,
+        "avg_image_bytes": 848334
+    },
+    {
+        "expansion_code": "base6",
+        "logo_url": "https://images.pokemontcg.io/base6/logo.png",
+        "palette": [
+            "#edbf29",
+            "#c52412",
+            "#3540a6"
+        ],
+        "card_count": 110,
+        "data_bytes_estimate": 964811,
+        "avg_image_bytes": 807764
+    },
+    {
+        "expansion_code": "basep",
+        "logo_url": "https://images.pokemontcg.io/basep/logo.png",
+        "palette": null,
+        "card_count": 53,
+        "data_bytes_estimate": 464632,
+        "avg_image_bytes": 862317
+    },
+    {
+        "expansion_code": "bp",
+        "logo_url": "https://images.pokemontcg.io/bp/logo.png",
+        "palette": [
+            "#f7c506",
+            "#3362aa",
+            "#d51b21"
+        ],
+        "card_count": 9,
+        "data_bytes_estimate": 78968,
+        "avg_image_bytes": 1043663
+    },
+    {
+        "expansion_code": "bw1",
+        "logo_url": "https://images.pokemontcg.io/bw1/logo.png",
+        "palette": null,
+        "card_count": 115,
+        "data_bytes_estimate": 1008694,
+        "avg_image_bytes": 630049
+    },
+    {
+        "expansion_code": "bw10",
+        "logo_url": "https://images.pokemontcg.io/bw10/logo.png",
+        "palette": [
+            "#1294c7",
+            "#510f61",
+            "#f19da0"
+        ],
+        "card_count": 105,
+        "data_bytes_estimate": 921010,
+        "avg_image_bytes": 609134
+    },
+    {
+        "expansion_code": "bw11",
+        "logo_url": "https://images.pokemontcg.io/bw11/logo.png",
+        "palette": [
+            "#d9b846",
+            "#0e84bc"
+        ],
+        "card_count": 140,
+        "data_bytes_estimate": 1228018,
+        "avg_image_bytes": 595652
+    },
+    {
+        "expansion_code": "bw2",
+        "logo_url": "https://images.pokemontcg.io/bw2/logo.png",
+        "palette": [
+            "#c4161c"
+        ],
+        "card_count": 98,
+        "data_bytes_estimate": 859548,
+        "avg_image_bytes": 605410
+    },
+    {
+        "expansion_code": "bw3",
+        "logo_url": "https://images.pokemontcg.io/bw3/logo.png",
+        "palette": [
+            "#eec078"
+        ],
+        "card_count": 102,
+        "data_bytes_estimate": 894527,
+        "avg_image_bytes": 615500
+    },
+    {
+        "expansion_code": "bw4",
+        "logo_url": "https://images.pokemontcg.io/bw4/logo.png",
+        "palette": [
+            "#b51a1e",
+            "#d7b337"
+        ],
+        "card_count": 103,
+        "data_bytes_estimate": 903477,
+        "avg_image_bytes": 647731
+    },
+    {
+        "expansion_code": "bw5",
+        "logo_url": "https://images.pokemontcg.io/bw5/logo.png",
+        "palette": [
+            "#b22125"
+        ],
+        "card_count": 111,
+        "data_bytes_estimate": 973706,
+        "avg_image_bytes": 660432
+    },
+    {
+        "expansion_code": "bw6",
+        "logo_url": "https://images.pokemontcg.io/bw6/logo.png",
+        "palette": [
+            "#d8b336",
+            "#d5171e"
+        ],
+        "card_count": 128,
+        "data_bytes_estimate": 1122478,
+        "avg_image_bytes": 621421
+    },
+    {
+        "expansion_code": "bw7",
+        "logo_url": "https://images.pokemontcg.io/bw7/logo.png",
+        "palette": [
+            "#1d5c80",
+            "#e77137",
+            "#7aac88"
+        ],
+        "card_count": 153,
+        "data_bytes_estimate": 1342381,
+        "avg_image_bytes": 576381
+    },
+    {
+        "expansion_code": "bw8",
+        "logo_url": "https://images.pokemontcg.io/bw8/logo.png",
+        "palette": [
+            "#068abd",
+            "#f7996e"
+        ],
+        "card_count": 138,
+        "data_bytes_estimate": 1210428,
+        "avg_image_bytes": 619152
+    },
+    {
+        "expansion_code": "bw9",
+        "logo_url": "https://images.pokemontcg.io/bw9/logo.png",
+        "palette": [
+            "#17ade6",
+            "#f58348"
+        ],
+        "card_count": 122,
+        "data_bytes_estimate": 1070175,
+        "avg_image_bytes": 639254
+    },
+    {
+        "expansion_code": "bwp",
+        "logo_url": "https://images.pokemontcg.io/bwp/logo.png",
+        "palette": null,
+        "card_count": 101,
+        "data_bytes_estimate": 886069,
+        "avg_image_bytes": 834866
+    },
+    {
+        "expansion_code": "cel25",
+        "logo_url": "https://images.pokemontcg.io/cel25/logo.png",
+        "palette": [
+            "#e3c134",
+            "#bb181e"
+        ],
+        "card_count": 25,
+        "data_bytes_estimate": 219373,
+        "avg_image_bytes": 689757
+    },
+    {
+        "expansion_code": "cel25c",
+        "logo_url": "https://images.pokemontcg.io/cel25c/logo.png",
+        "palette": [
+            "#e3c134",
+            "#bb181e"
+        ],
+        "card_count": 22,
+        "data_bytes_estimate": 193218,
+        "avg_image_bytes": 574182
+    },
+    {
+        "expansion_code": "col1",
+        "logo_url": "https://images.pokemontcg.io/col1/logo.png",
+        "palette": [
+            "#2c2f8d"
+        ],
+        "card_count": 106,
+        "data_bytes_estimate": 929892,
+        "avg_image_bytes": 744152
+    },
+    {
+        "expansion_code": "dc1",
+        "logo_url": "https://images.pokemontcg.io/dc1/logo.png",
+        "palette": [
+            "#b12d43",
+            "#147bb9"
+        ],
+        "card_count": 34,
+        "data_bytes_estimate": 298557,
+        "avg_image_bytes": 1092164
+    },
+    {
+        "expansion_code": "det1",
+        "logo_url": "https://images.pokemontcg.io/det1/logo.png",
+        "palette": [
+            "#ecd01a",
+            "#1d4280"
+        ],
+        "card_count": 18,
+        "data_bytes_estimate": 158038,
+        "avg_image_bytes": 621753
+    },
+    {
+        "expansion_code": "dp1",
+        "logo_url": "https://images.pokemontcg.io/dp1/logo.png",
+        "palette": null,
+        "card_count": 130,
+        "data_bytes_estimate": 1139994,
+        "avg_image_bytes": 909777
+    },
+    {
+        "expansion_code": "dp2",
+        "logo_url": "https://images.pokemontcg.io/dp2/logo.png",
+        "palette": [
+            "#ba3d42",
+            "#f5e9a0"
+        ],
+        "card_count": 124,
+        "data_bytes_estimate": 1087413,
+        "avg_image_bytes": 854012
+    },
+    {
+        "expansion_code": "dp3",
+        "logo_url": "https://images.pokemontcg.io/dp3/logo.png",
+        "palette": [
+            "#145038",
+            "#e2ce86"
+        ],
+        "card_count": 132,
+        "data_bytes_estimate": 1157603,
+        "avg_image_bytes": 871274
+    },
+    {
+        "expansion_code": "dp4",
+        "logo_url": "https://images.pokemontcg.io/dp4/logo.png",
+        "palette": [
+            "#175a86",
+            "#e2c97b"
+        ],
+        "card_count": 106,
+        "data_bytes_estimate": 929502,
+        "avg_image_bytes": 869746
+    },
+    {
+        "expansion_code": "dp5",
+        "logo_url": "https://images.pokemontcg.io/dp5/logo.png",
+        "palette": [
+            "#e7a915"
+        ],
+        "card_count": 100,
+        "data_bytes_estimate": 876846,
+        "avg_image_bytes": 925148
+    },
+    {
+        "expansion_code": "dp6",
+        "logo_url": "https://images.pokemontcg.io/dp6/logo.png",
+        "palette": [
+            "#488bc2"
+        ],
+        "card_count": 146,
+        "data_bytes_estimate": 1280053,
+        "avg_image_bytes": 863014
+    },
+    {
+        "expansion_code": "dp7",
+        "logo_url": "https://images.pokemontcg.io/dp7/logo.png",
+        "palette": [
+            "#e9b723",
+            "#604388",
+            "#9a6966"
+        ],
+        "card_count": 106,
+        "data_bytes_estimate": 929399,
+        "avg_image_bytes": 922913
+    },
+    {
+        "expansion_code": "dpp",
+        "logo_url": "https://images.pokemontcg.io/dpp/logo.png",
+        "palette": null,
+        "card_count": 56,
+        "data_bytes_estimate": 491539,
+        "avg_image_bytes": 756395
+    },
+    {
+        "expansion_code": "dv1",
+        "logo_url": "https://images.pokemontcg.io/dv1/logo.png",
+        "palette": [
+            "#69552e"
+        ],
+        "card_count": 21,
+        "data_bytes_estimate": 184191,
+        "avg_image_bytes": 686332
+    },
+    {
+        "expansion_code": "ecard1",
+        "logo_url": "https://images.pokemontcg.io/ecard1/logo.png",
+        "palette": [
+            "#face43",
+            "#195a8f"
+        ],
+        "card_count": 165,
+        "data_bytes_estimate": 1447318,
+        "avg_image_bytes": 937937
+    },
+    {
+        "expansion_code": "ecard2",
+        "logo_url": "https://images.pokemontcg.io/ecard2/logo.png",
+        "palette": [
+            "#287bb2",
+            "#7770bd"
+        ],
+        "card_count": 182,
+        "data_bytes_estimate": 1596617,
+        "avg_image_bytes": 822640
+    },
+    {
+        "expansion_code": "ecard3",
+        "logo_url": "https://images.pokemontcg.io/ecard3/logo.png",
+        "palette": [
+            "#058954",
+            "#e6eb04",
+            "#91cd84"
+        ],
+        "card_count": 182,
+        "data_bytes_estimate": 1596358,
+        "avg_image_bytes": 840810
+    },
+    {
+        "expansion_code": "ex1",
+        "logo_url": "https://images.pokemontcg.io/ex1/logo.png",
+        "palette": [
+            "#ec894c"
+        ],
+        "card_count": 109,
+        "data_bytes_estimate": 955879,
+        "avg_image_bytes": 536832
+    },
+    {
+        "expansion_code": "ex10",
+        "logo_url": "https://images.pokemontcg.io/ex10/logo.png",
+        "palette": [
+            "#13719d"
+        ],
+        "card_count": 145,
+        "data_bytes_estimate": 1271826,
+        "avg_image_bytes": 930881
+    },
+    {
+        "expansion_code": "ex11",
+        "logo_url": "https://images.pokemontcg.io/ex11/logo.png",
+        "palette": null,
+        "card_count": 114,
+        "data_bytes_estimate": 999979,
+        "avg_image_bytes": 937702
+    },
+    {
+        "expansion_code": "ex12",
+        "logo_url": "https://images.pokemontcg.io/ex12/logo.png",
+        "palette": [
+            "#998061"
+        ],
+        "card_count": 93,
+        "data_bytes_estimate": 815472,
+        "avg_image_bytes": 929353
+    },
+    {
+        "expansion_code": "ex13",
+        "logo_url": "https://images.pokemontcg.io/ex13/logo.png",
+        "palette": [
+            "#864e7b"
+        ],
+        "card_count": 111,
+        "data_bytes_estimate": 974060,
+        "avg_image_bytes": 867467
+    },
+    {
+        "expansion_code": "ex14",
+        "logo_url": "https://images.pokemontcg.io/ex14/logo.png",
+        "palette": [
+            "#89ceef",
+            "#5a4227"
+        ],
+        "card_count": 100,
+        "data_bytes_estimate": 877384,
+        "avg_image_bytes": 945595
+    },
+    {
+        "expansion_code": "ex15",
+        "logo_url": "https://images.pokemontcg.io/ex15/logo.png",
+        "palette": [
+            "#e8d001",
+            "#c83d1e"
+        ],
+        "card_count": 101,
+        "data_bytes_estimate": 886529,
+        "avg_image_bytes": 857514
+    },
+    {
+        "expansion_code": "ex16",
+        "logo_url": "https://images.pokemontcg.io/ex16/logo.png",
+        "palette": [
+            "#b54030"
+        ],
+        "card_count": 108,
+        "data_bytes_estimate": 947154,
+        "avg_image_bytes": 938674
+    },
+    {
+        "expansion_code": "ex2",
+        "logo_url": "https://images.pokemontcg.io/ex2/logo.png",
+        "palette": [
+            "#0693c9",
+            "#f6a11c"
+        ],
+        "card_count": 100,
+        "data_bytes_estimate": 876848,
+        "avg_image_bytes": 513965
+    },
+    {
+        "expansion_code": "ex3",
+        "logo_url": "https://images.pokemontcg.io/ex3/logo.png",
+        "palette": [
+            "#c8d726",
+            "#0d793e",
+            "#f86e20"
+        ],
+        "card_count": 100,
+        "data_bytes_estimate": 877128,
+        "avg_image_bytes": 1361507
+    },
+    {
+        "expansion_code": "ex4",
+        "logo_url": "https://images.pokemontcg.io/ex4/logo.png",
+        "palette": [
+            "#34b3e6",
+            "#f8aa24"
+        ],
+        "card_count": 97,
+        "data_bytes_estimate": 851412,
+        "avg_image_bytes": 488694
+    },
+    {
+        "expansion_code": "ex5",
+        "logo_url": "https://images.pokemontcg.io/ex5/logo.png",
+        "palette": [
+            "#a40e13"
+        ],
+        "card_count": 102,
+        "data_bytes_estimate": 894478,
+        "avg_image_bytes": 1141936
+    },
+    {
+        "expansion_code": "ex6",
+        "logo_url": "https://images.pokemontcg.io/ex6/logo.png",
+        "palette": [
+            "#f15128",
+            "#a7cf3b",
+            "#289350"
+        ],
+        "card_count": 116,
+        "data_bytes_estimate": 1017234,
+        "avg_image_bytes": 1782141
+    },
+    {
+        "expansion_code": "ex7",
+        "logo_url": "https://images.pokemontcg.io/ex7/logo.png",
+        "palette": [
+            "#f57a32"
+        ],
+        "card_count": 111,
+        "data_bytes_estimate": 973812,
+        "avg_image_bytes": 1117711
+    },
+    {
+        "expansion_code": "ex8",
+        "logo_url": "https://images.pokemontcg.io/ex8/logo.png",
+        "palette": [
+            "#d5584d",
+            "#38a3b7"
+        ],
+        "card_count": 108,
+        "data_bytes_estimate": 946958,
+        "avg_image_bytes": 915524
+    },
+    {
+        "expansion_code": "ex9",
+        "logo_url": "https://images.pokemontcg.io/ex9/logo.png",
+        "palette": [
+            "#ad9f0f",
+            "#36b372",
+            "#6dbc37"
+        ],
+        "card_count": 107,
+        "data_bytes_estimate": 938468,
+        "avg_image_bytes": 880487
+    },
+    {
+        "expansion_code": "fut20",
+        "logo_url": "https://images.pokemontcg.io/fut20/logo.png",
+        "palette": [
+            "#3176db",
+            "#f5d202",
+            "#170044"
+        ],
+        "card_count": 5,
+        "data_bytes_estimate": 43965,
+        "avg_image_bytes": 1218356
+    },
+    {
+        "expansion_code": "g1",
+        "logo_url": "https://images.pokemontcg.io/g1/logo.png",
+        "palette": [
+            "#e7d34c",
+            "#ed1a3b"
+        ],
+        "card_count": 117,
+        "data_bytes_estimate": 1026225,
+        "avg_image_bytes": 711242
+    },
+    {
+        "expansion_code": "gym1",
+        "logo_url": "https://images.pokemontcg.io/gym1/logo.png",
+        "palette": null,
+        "card_count": 132,
+        "data_bytes_estimate": 1158074,
+        "avg_image_bytes": 840814
+    },
+    {
+        "expansion_code": "gym2",
+        "logo_url": "https://images.pokemontcg.io/gym2/logo.png",
+        "palette": null,
+        "card_count": 132,
+        "data_bytes_estimate": 1157840,
+        "avg_image_bytes": 882219
+    },
+    {
+        "expansion_code": "hgss1",
+        "logo_url": "https://images.pokemontcg.io/hgss1/logo.png",
+        "palette": [
+            "#d9b946",
+            "#44a5cd"
+        ],
+        "card_count": 124,
+        "data_bytes_estimate": 1087924,
+        "avg_image_bytes": 781153
+    },
+    {
+        "expansion_code": "hgss2",
+        "logo_url": "https://images.pokemontcg.io/hgss2/logo.png",
+        "palette": [
+            "#e49722",
+            "#4da1c2"
+        ],
+        "card_count": 96,
+        "data_bytes_estimate": 842387,
+        "avg_image_bytes": 743294
+    },
+    {
+        "expansion_code": "hgss3",
+        "logo_url": "https://images.pokemontcg.io/hgss3/logo.png",
+        "palette": [
+            "#2091bd",
+            "#ddbb3e"
+        ],
+        "card_count": 91,
+        "data_bytes_estimate": 798286,
+        "avg_image_bytes": 761214
+    },
+    {
+        "expansion_code": "hgss4",
+        "logo_url": "https://images.pokemontcg.io/hgss4/logo.png",
+        "palette": [
+            "#db9b12",
+            "#71010d",
+            "#6195b1"
+        ],
+        "card_count": 103,
+        "data_bytes_estimate": 903425,
+        "avg_image_bytes": 750129
+    },
+    {
+        "expansion_code": "hsp",
+        "logo_url": "https://images.pokemontcg.io/hsp/logo.png",
+        "palette": null,
+        "card_count": 25,
+        "data_bytes_estimate": 211197,
+        "avg_image_bytes": 890573
+    },
+    {
+        "expansion_code": "mcd11",
+        "logo_url": "https://images.pokemontcg.io/mcd11/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 105185,
+        "avg_image_bytes": 1886157
+    },
+    {
+        "expansion_code": "mcd12",
+        "logo_url": "https://images.pokemontcg.io/mcd12/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 105248,
+        "avg_image_bytes": 822383
+    },
+    {
+        "expansion_code": "mcd14",
+        "logo_url": "https://images.pokemontcg.io/mcd14/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 6455,
+        "avg_image_bytes": 186316
+    },
+    {
+        "expansion_code": "mcd15",
+        "logo_url": "https://images.pokemontcg.io/mcd15/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 6445,
+        "avg_image_bytes": 186316
+    },
+    {
+        "expansion_code": "mcd16",
+        "logo_url": "https://images.pokemontcg.io/mcd16/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 105331,
+        "avg_image_bytes": 1815452
+    },
+    {
+        "expansion_code": "mcd17",
+        "logo_url": "https://images.pokemontcg.io/mcd17/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 6510,
+        "avg_image_bytes": 186316
+    },
+    {
+        "expansion_code": "mcd18",
+        "logo_url": "https://images.pokemontcg.io/mcd18/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 6494,
+        "avg_image_bytes": 186316
+    },
+    {
+        "expansion_code": "mcd19",
+        "logo_url": "https://images.pokemontcg.io/mcd19/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 105268,
+        "avg_image_bytes": 1836290
+    },
+    {
+        "expansion_code": "mcd21",
+        "logo_url": "https://images.pokemontcg.io/mcd21/logo.png",
+        "palette": [
+            "#ee3e42",
+            "#fdbc10"
+        ],
+        "card_count": 25,
+        "data_bytes_estimate": 219678,
+        "avg_image_bytes": 1429967
+    },
+    {
+        "expansion_code": "mcd22",
+        "logo_url": "https://images.pokemontcg.io/mcd22/logo.png",
+        "palette": [
+            "#dc1f25",
+            "#eec805"
+        ],
+        "card_count": 15,
+        "data_bytes_estimate": 131532,
+        "avg_image_bytes": 1649819
+    },
+    {
+        "expansion_code": "me1",
+        "logo_url": "https://images.pokemontcg.io/me1/logo.png",
+        "palette": [
+            "#dbb929",
+            "#e13a79",
+            "#3ab688"
+        ],
+        "card_count": 188,
+        "data_bytes_estimate": 1649933,
+        "avg_image_bytes": 609229
+    },
+    {
+        "expansion_code": "me2",
+        "logo_url": "https://images.pokemontcg.io/me2/logo.png",
+        "palette": [
+            "#63a4cc",
+            "#ccae32",
+            "#8d4583"
+        ],
+        "card_count": 130,
+        "data_bytes_estimate": 1140650,
+        "avg_image_bytes": 596395
+    },
+    {
+        "expansion_code": "me2pt5",
+        "logo_url": "https://images.scrydex.com/pokemon/me2pt5-logo/logo",
+        "palette": [
+            "#eeb43e",
+            "#3fa582",
+            "#c97194"
+        ],
+        "card_count": 295,
+        "data_bytes_estimate": 2591728,
+        "avg_image_bytes": 618769
+    },
+    {
+        "expansion_code": "me3",
+        "logo_url": "https://images.scrydex.com/pokemon/me3-logo/logo",
+        "palette": [
+            "#b6c64d",
+            "#be4436",
+            "#488839"
+        ],
+        "card_count": 124,
+        "data_bytes_estimate": 1088429,
+        "avg_image_bytes": 659503
+    },
+    {
+        "expansion_code": "me4",
+        "logo_url": "https://images.scrydex.com/pokemon/me4-logo/logo",
+        "palette": [
+            "#2a91c4",
+            "#180e50",
+            "#b38029"
+        ],
+        "card_count": 122,
+        "data_bytes_estimate": 1070942,
+        "avg_image_bytes": 913275
+    },
+    {
+        "expansion_code": "me5",
+        "logo_url": "https://images.scrydex.com/pokemon/me5-logo/logo",
+        "palette": [
+            "#ac9422",
+            "#172662",
+            "#a24696"
+        ],
+        "card_count": 120,
+        "data_bytes_estimate": 1053671,
+        "avg_image_bytes": 895094
+    },
+    {
+        "expansion_code": "me55",
+        "logo_url": "https://images.scrydex.com/pokemon/me55-logo/logo",
+        "palette": [
+            "#b88d41"
+        ],
+        "card_count": 161,
+        "data_bytes_estimate": 87462,
+        "avg_image_bytes": 872450
+    },
+    {
+        "expansion_code": "me55c",
+        "logo_url": "https://images.scrydex.com/pokemon/me55c-logo/logo",
+        "palette": [
+            "#b88d41"
+        ],
+        "card_count": 27,
+        "data_bytes_estimate": 14827,
+        "avg_image_bytes": 828627
+    },
+    {
+        "expansion_code": "neo1",
+        "logo_url": "https://images.pokemontcg.io/neo1/logo.png",
+        "palette": [
+            "#df172b"
+        ],
+        "card_count": 111,
+        "data_bytes_estimate": 972917,
+        "avg_image_bytes": 925339
+    },
+    {
+        "expansion_code": "neo2",
+        "logo_url": "https://images.pokemontcg.io/neo2/logo.png",
+        "palette": [
+            "#f00218",
+            "#443c21"
+        ],
+        "card_count": 75,
+        "data_bytes_estimate": 657290,
+        "avg_image_bytes": 864578
+    },
+    {
+        "expansion_code": "neo3",
+        "logo_url": "https://images.pokemontcg.io/neo3/logo.png",
+        "palette": [
+            "#dc8b4a",
+            "#76b1d2"
+        ],
+        "card_count": 66,
+        "data_bytes_estimate": 578387,
+        "avg_image_bytes": 852665
+    },
+    {
+        "expansion_code": "neo4",
+        "logo_url": "https://images.pokemontcg.io/neo4/logo.png",
+        "palette": [
+            "#e97237",
+            "#557894"
+        ],
+        "card_count": 113,
+        "data_bytes_estimate": 991676,
+        "avg_image_bytes": 931883
+    },
+    {
+        "expansion_code": "np",
+        "logo_url": "https://images.pokemontcg.io/np/logo.png",
+        "palette": null,
+        "card_count": 40,
+        "data_bytes_estimate": 350901,
+        "avg_image_bytes": 890125
+    },
+    {
+        "expansion_code": "pgo",
+        "logo_url": "https://images.pokemontcg.io/pgo/logo.png",
+        "palette": [
+            "#eac30a",
+            "#224b8b",
+            "#d60116"
+        ],
+        "card_count": 88,
+        "data_bytes_estimate": 772197,
+        "avg_image_bytes": 646813
+    },
+    {
+        "expansion_code": "pl1",
+        "logo_url": "https://images.pokemontcg.io/pl1/logo.png",
+        "palette": null,
+        "card_count": 133,
+        "data_bytes_estimate": 1166592,
+        "avg_image_bytes": 929088
+    },
+    {
+        "expansion_code": "pl2",
+        "logo_url": "https://images.pokemontcg.io/pl2/logo.png",
+        "palette": [
+            "#d56617"
+        ],
+        "card_count": 120,
+        "data_bytes_estimate": 1052921,
+        "avg_image_bytes": 907972
+    },
+    {
+        "expansion_code": "pl3",
+        "logo_url": "https://images.pokemontcg.io/pl3/logo.png",
+        "palette": [
+            "#196d97"
+        ],
+        "card_count": 153,
+        "data_bytes_estimate": 1341853,
+        "avg_image_bytes": 859977
+    },
+    {
+        "expansion_code": "pl4",
+        "logo_url": "https://images.pokemontcg.io/pl4/logo.png",
+        "palette": [
+            "#e3be21"
+        ],
+        "card_count": 111,
+        "data_bytes_estimate": 973202,
+        "avg_image_bytes": 864627
+    },
+    {
+        "expansion_code": "pop1",
+        "logo_url": "https://images.pokemontcg.io/pop1/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149088,
+        "avg_image_bytes": 1057458
+    },
+    {
+        "expansion_code": "pop2",
+        "logo_url": "https://images.pokemontcg.io/pop2/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149141,
+        "avg_image_bytes": 918574
+    },
+    {
+        "expansion_code": "pop3",
+        "logo_url": "https://images.pokemontcg.io/pop3/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149075,
+        "avg_image_bytes": 909926
+    },
+    {
+        "expansion_code": "pop4",
+        "logo_url": "https://images.pokemontcg.io/pop4/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149041,
+        "avg_image_bytes": 986123
+    },
+    {
+        "expansion_code": "pop5",
+        "logo_url": "https://images.pokemontcg.io/pop5/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149157,
+        "avg_image_bytes": 917782
+    },
+    {
+        "expansion_code": "pop6",
+        "logo_url": "https://images.pokemontcg.io/pop6/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 148982,
+        "avg_image_bytes": 790380
+    },
+    {
+        "expansion_code": "pop7",
+        "logo_url": "https://images.pokemontcg.io/pop7/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149071,
+        "avg_image_bytes": 871577
+    },
+    {
+        "expansion_code": "pop8",
+        "logo_url": "https://images.pokemontcg.io/pop8/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149072,
+        "avg_image_bytes": 902068
+    },
+    {
+        "expansion_code": "pop9",
+        "logo_url": "https://images.pokemontcg.io/pop9/logo.png",
+        "palette": [
+            "#df1737"
+        ],
+        "card_count": 17,
+        "data_bytes_estimate": 149054,
+        "avg_image_bytes": 912322
+    },
+    {
+        "expansion_code": "rsv10pt5",
+        "logo_url": "https://images.pokemontcg.io/rsv10pt5/logo.png",
+        "palette": [
+            "#d3115c"
+        ],
+        "card_count": 173,
+        "data_bytes_estimate": 1519520,
+        "avg_image_bytes": 629412
+    },
+    {
+        "expansion_code": "ru1",
+        "logo_url": "https://images.pokemontcg.io/ru1/logo.png",
+        "palette": [
+            "#f4c209",
+            "#3061a7",
+            "#881b1f"
+        ],
+        "card_count": 16,
+        "data_bytes_estimate": 140300,
+        "avg_image_bytes": 838343
+    },
+    {
+        "expansion_code": "si1",
+        "logo_url": "https://images.pokemontcg.io/si1/logo.png",
+        "palette": [
+            "#e98332",
+            "#3f6ba7"
+        ],
+        "card_count": 18,
+        "data_bytes_estimate": 157814,
+        "avg_image_bytes": 866404
+    },
+    {
+        "expansion_code": "sm1",
+        "logo_url": "https://images.pokemontcg.io/sm1/logo.png",
+        "palette": [
+            "#56a2cc",
+            "#e3a85a"
+        ],
+        "card_count": 173,
+        "data_bytes_estimate": 1518046,
+        "avg_image_bytes": 635154
+    },
+    {
+        "expansion_code": "sm10",
+        "logo_url": "https://images.pokemontcg.io/sm10/logo.png",
+        "palette": [
+            "#edd923",
+            "#20587c"
+        ],
+        "card_count": 238,
+        "data_bytes_estimate": 2089769,
+        "avg_image_bytes": 688085
+    },
+    {
+        "expansion_code": "sm11",
+        "logo_url": "https://images.pokemontcg.io/sm11/logo.png",
+        "palette": [
+            "#cf2286",
+            "#27a5b8",
+            "#531d71"
+        ],
+        "card_count": 261,
+        "data_bytes_estimate": 2292110,
+        "avg_image_bytes": 605468
+    },
+    {
+        "expansion_code": "sm115",
+        "logo_url": "https://images.pokemontcg.io/sm115/logo.png",
+        "palette": [
+            "#e7d044",
+            "#003659"
+        ],
+        "card_count": 69,
+        "data_bytes_estimate": 605952,
+        "avg_image_bytes": 604046
+    },
+    {
+        "expansion_code": "sm12",
+        "logo_url": "https://images.pokemontcg.io/sm12/logo.png",
+        "palette": [
+            "#f2bd78",
+            "#38b2be"
+        ],
+        "card_count": 272,
+        "data_bytes_estimate": 2388347,
+        "avg_image_bytes": 646721
+    },
+    {
+        "expansion_code": "sm2",
+        "logo_url": "https://images.pokemontcg.io/sm2/logo.png",
+        "palette": [
+            "#eba844",
+            "#d41f5a",
+            "#4da5d8"
+        ],
+        "card_count": 180,
+        "data_bytes_estimate": 1579631,
+        "avg_image_bytes": 612751
+    },
+    {
+        "expansion_code": "sm3",
+        "logo_url": "https://images.pokemontcg.io/sm3/logo.png",
+        "palette": [
+            "#690934",
+            "#62abd7",
+            "#f0b762"
+        ],
+        "card_count": 177,
+        "data_bytes_estimate": 1552891,
+        "avg_image_bytes": 615823
+    },
+    {
+        "expansion_code": "sm35",
+        "logo_url": "https://images.pokemontcg.io/sm35/logo.png",
+        "palette": [
+            "#f1a62d",
+            "#480735"
+        ],
+        "card_count": 81,
+        "data_bytes_estimate": 710592,
+        "avg_image_bytes": 600849
+    },
+    {
+        "expansion_code": "sm4",
+        "logo_url": "https://images.pokemontcg.io/sm4/logo.png",
+        "palette": [
+            "#a5121c",
+            "#5d9fcb"
+        ],
+        "card_count": 126,
+        "data_bytes_estimate": 1106059,
+        "avg_image_bytes": 628704
+    },
+    {
+        "expansion_code": "sm5",
+        "logo_url": "https://images.pokemontcg.io/sm5/logo.png",
+        "palette": [
+            "#fae109",
+            "#5192b8",
+            "#ac3827"
+        ],
+        "card_count": 178,
+        "data_bytes_estimate": 1562910,
+        "avg_image_bytes": 563579
+    },
+    {
+        "expansion_code": "sm6",
+        "logo_url": "https://images.pokemontcg.io/sm6/logo.png",
+        "palette": [
+            "#71d7f2",
+            "#ba388b",
+            "#3b1856"
+        ],
+        "card_count": 150,
+        "data_bytes_estimate": 1316766,
+        "avg_image_bytes": 603528
+    },
+    {
+        "expansion_code": "sm7",
+        "logo_url": "https://images.pokemontcg.io/sm7/logo.png",
+        "palette": [
+            "#164b93",
+            "#cedd56",
+            "#0f9d85"
+        ],
+        "card_count": 187,
+        "data_bytes_estimate": 1641868,
+        "avg_image_bytes": 614700
+    },
+    {
+        "expansion_code": "sm75",
+        "logo_url": "https://images.pokemontcg.io/sm75/logo.png",
+        "palette": [
+            "#e1ae4f",
+            "#234f28",
+            "#6c1722"
+        ],
+        "card_count": 80,
+        "data_bytes_estimate": 702179,
+        "avg_image_bytes": 640741
+    },
+    {
+        "expansion_code": "sm8",
+        "logo_url": "https://images.pokemontcg.io/sm8/logo.png",
+        "palette": [
+            "#f8dc06",
+            "#0c8cce",
+            "#380c55"
+        ],
+        "card_count": 240,
+        "data_bytes_estimate": 2106813,
+        "avg_image_bytes": 575430
+    },
+    {
+        "expansion_code": "sm9",
+        "logo_url": "https://images.pokemontcg.io/sm9/logo.png",
+        "palette": [
+            "#cb2458",
+            "#e5b369",
+            "#263993"
+        ],
+        "card_count": 198,
+        "data_bytes_estimate": 1738471,
+        "avg_image_bytes": 655619
+    },
+    {
+        "expansion_code": "sma",
+        "logo_url": "https://images.pokemontcg.io/sma/logo.png",
+        "palette": [
+            "#ddc64c",
+            "#013a5c"
+        ],
+        "card_count": 94,
+        "data_bytes_estimate": 825521,
+        "avg_image_bytes": 931405
+    },
+    {
+        "expansion_code": "smp",
+        "logo_url": "https://images.pokemontcg.io/smp/logo.png",
+        "palette": null,
+        "card_count": 251,
+        "data_bytes_estimate": 2203228,
+        "avg_image_bytes": 677617
+    },
+    {
+        "expansion_code": "sv1",
+        "logo_url": "https://images.pokemontcg.io/sv1/logo.png",
+        "palette": [
+            "#8c163d",
+            "#da926d",
+            "#392062"
+        ],
+        "card_count": 258,
+        "data_bytes_estimate": 2264684,
+        "avg_image_bytes": 855693
+    },
+    {
+        "expansion_code": "sv10",
+        "logo_url": "https://images.pokemontcg.io/sv10/logo.png",
+        "palette": [
+            "#df2511",
+            "#5c1554",
+            "#331f53"
+        ],
+        "card_count": 244,
+        "data_bytes_estimate": 2142888,
+        "avg_image_bytes": 602486
+    },
+    {
+        "expansion_code": "sv2",
+        "logo_url": "https://images.pokemontcg.io/sv2/logo.png",
+        "palette": [
+            "#a4442d",
+            "#542276",
+            "#efe78c"
+        ],
+        "card_count": 279,
+        "data_bytes_estimate": 2448641,
+        "avg_image_bytes": 1175208
+    },
+    {
+        "expansion_code": "sv3",
+        "logo_url": "https://images.pokemontcg.io/sv3/logo.png",
+        "palette": [
+            "#a52f40",
+            "#deb16b",
+            "#612357"
+        ],
+        "card_count": 230,
+        "data_bytes_estimate": 2018385,
+        "avg_image_bytes": 635423
+    },
+    {
+        "expansion_code": "sv3pt5",
+        "logo_url": "https://images.pokemontcg.io/sv3pt5/logo.png",
+        "palette": [
+            "#cc212c",
+            "#209b52",
+            "#77246c"
+        ],
+        "card_count": 207,
+        "data_bytes_estimate": 1817609,
+        "avg_image_bytes": 599504
+    },
+    {
+        "expansion_code": "sv4",
+        "logo_url": "https://images.pokemontcg.io/sv4/logo.png",
+        "palette": [
+            "#1d3f7d",
+            "#c34168",
+            "#2a887c"
+        ],
+        "card_count": 266,
+        "data_bytes_estimate": 2334478,
+        "avg_image_bytes": 637763
+    },
+    {
+        "expansion_code": "sv4pt5",
+        "logo_url": "https://images.pokemontcg.io/sv4pt5/logo.png",
+        "palette": [
+            "#dcc750",
+            "#3a8b97",
+            "#b62958"
+        ],
+        "card_count": 245,
+        "data_bytes_estimate": 2151105,
+        "avg_image_bytes": 667477
+    },
+    {
+        "expansion_code": "sv5",
+        "logo_url": "https://images.pokemontcg.io/sv5/logo.png",
+        "palette": [
+            "#229aa8",
+            "#001151",
+            "#a62f48"
+        ],
+        "card_count": 218,
+        "data_bytes_estimate": 1913758,
+        "avg_image_bytes": 608817
+    },
+    {
+        "expansion_code": "sv6",
+        "logo_url": "https://images.pokemontcg.io/sv6/logo.png",
+        "palette": [
+            "#e39d19",
+            "#215f81",
+            "#3d105a"
+        ],
+        "card_count": 226,
+        "data_bytes_estimate": 1983433,
+        "avg_image_bytes": 569309
+    },
+    {
+        "expansion_code": "sv6pt5",
+        "logo_url": "https://images.pokemontcg.io/sv6pt5/logo.png",
+        "palette": [
+            "#c5559d",
+            "#bac93e",
+            "#7f42aa"
+        ],
+        "card_count": 99,
+        "data_bytes_estimate": 869176,
+        "avg_image_bytes": 784805
+    },
+    {
+        "expansion_code": "sv7",
+        "logo_url": "https://images.pokemontcg.io/sv7/logo.png",
+        "palette": [
+            "#312e71",
+            "#ad3c61",
+            "#73bec6"
+        ],
+        "card_count": 175,
+        "data_bytes_estimate": 1535555,
+        "avg_image_bytes": 3110735
+    },
+    {
+        "expansion_code": "sv8",
+        "logo_url": "https://images.pokemontcg.io/sv8/logo.png",
+        "palette": [
+            "#efd62d",
+            "#750e07",
+            "#097eba"
+        ],
+        "card_count": 252,
+        "data_bytes_estimate": 2211401,
+        "avg_image_bytes": 592246
+    },
+    {
+        "expansion_code": "sv8pt5",
+        "logo_url": "https://images.pokemontcg.io/sv8pt5/logo.png",
+        "palette": [
+            "#100d49",
+            "#c04356",
+            "#419bc8"
+        ],
+        "card_count": 180,
+        "data_bytes_estimate": 1580756,
+        "avg_image_bytes": 626465
+    },
+    {
+        "expansion_code": "sv9",
+        "logo_url": "https://images.pokemontcg.io/sv9/logo.png",
+        "palette": [
+            "#19adb9",
+            "#ecc96c",
+            "#602d85"
+        ],
+        "card_count": 190,
+        "data_bytes_estimate": 1667993,
+        "avg_image_bytes": 537621
+    },
+    {
+        "expansion_code": "sve",
+        "logo_url": "https://images.pokemontcg.io/sve/logo.png",
+        "palette": [
+            "#f1bb2b",
+            "#36559c",
+            "#ba1c2a"
+        ],
+        "card_count": 16,
+        "data_bytes_estimate": 140675,
+        "avg_image_bytes": 230035
+    },
+    {
+        "expansion_code": "svp",
+        "logo_url": "https://images.pokemontcg.io/svp/logo.png",
+        "palette": null,
+        "card_count": 165,
+        "data_bytes_estimate": 1439831,
+        "avg_image_bytes": 640615
+    },
+    {
+        "expansion_code": "swsh1",
+        "logo_url": "https://images.pokemontcg.io/swsh1/logo.png",
+        "palette": [
+            "#ca4397",
+            "#3083bb",
+            "#7342ba"
+        ],
+        "card_count": 216,
+        "data_bytes_estimate": 1896267,
+        "avg_image_bytes": 603116
+    },
+    {
+        "expansion_code": "swsh10",
+        "logo_url": "https://images.pokemontcg.io/swsh10/logo.png",
+        "palette": [
+            "#b02274",
+            "#094354",
+            "#e4ab43"
+        ],
+        "card_count": 216,
+        "data_bytes_estimate": 1896657,
+        "avg_image_bytes": 593782
+    },
+    {
+        "expansion_code": "swsh10tg",
+        "logo_url": "https://images.pokemontcg.io/swsh10tg/logo.png",
+        "palette": [
+            "#b02274",
+            "#094354",
+            "#e4ab43"
+        ],
+        "card_count": 30,
+        "data_bytes_estimate": 263677,
+        "avg_image_bytes": 619538
+    },
+    {
+        "expansion_code": "swsh11",
+        "logo_url": "https://images.pokemontcg.io/swsh11/logo.png",
+        "palette": [
+            "#b82841",
+            "#e1d06f",
+            "#712465"
+        ],
+        "card_count": 217,
+        "data_bytes_estimate": 1905152,
+        "avg_image_bytes": 628983
+    },
+    {
+        "expansion_code": "swsh11tg",
+        "logo_url": "https://images.pokemontcg.io/swsh11tg/logo.png",
+        "palette": [
+            "#b82841",
+            "#e1d06f",
+            "#712465"
+        ],
+        "card_count": 30,
+        "data_bytes_estimate": 263475,
+        "avg_image_bytes": 641618
+    },
+    {
+        "expansion_code": "swsh12",
+        "logo_url": "https://images.pokemontcg.io/swsh12/logo.png",
+        "palette": [
+            "#296e8d",
+            "#151346",
+            "#ab3262"
+        ],
+        "card_count": 215,
+        "data_bytes_estimate": 1887861,
+        "avg_image_bytes": 603027
+    },
+    {
+        "expansion_code": "swsh12pt5",
+        "logo_url": "https://images.pokemontcg.io/swsh12pt5/logo.png",
+        "palette": [
+            "#6b102e",
+            "#3160a3",
+            "#bbad6b"
+        ],
+        "card_count": 160,
+        "data_bytes_estimate": 1405046,
+        "avg_image_bytes": 559639
+    },
+    {
+        "expansion_code": "swsh12pt5gg",
+        "logo_url": "https://images.pokemontcg.io/swsh12pt5gg/logo.png",
+        "palette": [
+            "#6b102e",
+            "#3160a3",
+            "#bbad6b"
+        ],
+        "card_count": 70,
+        "data_bytes_estimate": 615175,
+        "avg_image_bytes": 587096
+    },
+    {
+        "expansion_code": "swsh12tg",
+        "logo_url": "https://images.pokemontcg.io/swsh12tg/logo.png",
+        "palette": [
+            "#296e8d",
+            "#151346",
+            "#ab3262"
+        ],
+        "card_count": 30,
+        "data_bytes_estimate": 263582,
+        "avg_image_bytes": 597840
+    },
+    {
+        "expansion_code": "swsh2",
+        "logo_url": "https://images.pokemontcg.io/swsh2/logo.png",
+        "palette": [
+            "#b5207c",
+            "#2d7cb2",
+            "#fce508"
+        ],
+        "card_count": 209,
+        "data_bytes_estimate": 1834878,
+        "avg_image_bytes": 595133
+    },
+    {
+        "expansion_code": "swsh3",
+        "logo_url": "https://images.pokemontcg.io/swsh3/logo.png",
+        "palette": [
+            "#f8ad22",
+            "#14619e",
+            "#e2327b"
+        ],
+        "card_count": 201,
+        "data_bytes_estimate": 1764676,
+        "avg_image_bytes": 602007
+    },
+    {
+        "expansion_code": "swsh35",
+        "logo_url": "https://images.pokemontcg.io/swsh35/logo.png",
+        "palette": [
+            "#ddc54c",
+            "#7296ac"
+        ],
+        "card_count": 80,
+        "data_bytes_estimate": 702462,
+        "avg_image_bytes": 609174
+    },
+    {
+        "expansion_code": "swsh4",
+        "logo_url": "https://images.pokemontcg.io/swsh4/logo.png",
+        "palette": [
+            "#f0d512",
+            "#de2a6e",
+            "#211965"
+        ],
+        "card_count": 203,
+        "data_bytes_estimate": 1781941,
+        "avg_image_bytes": 603608
+    },
+    {
+        "expansion_code": "swsh45",
+        "logo_url": "https://images.pokemontcg.io/swsh45/logo.png",
+        "palette": [
+            "#221a71",
+            "#41c7d7",
+            "#fba31a"
+        ],
+        "card_count": 73,
+        "data_bytes_estimate": 640905,
+        "avg_image_bytes": 1067468
+    },
+    {
+        "expansion_code": "swsh45sv",
+        "logo_url": "https://images.pokemontcg.io/swsh45sv/logo.png",
+        "palette": [
+            "#221a71",
+            "#41c7d7",
+            "#fba31a"
+        ],
+        "card_count": 122,
+        "data_bytes_estimate": 1072118,
+        "avg_image_bytes": 1019560
+    },
+    {
+        "expansion_code": "swsh5",
+        "logo_url": "https://images.pokemontcg.io/swsh5/logo.png",
+        "palette": [
+            "#269db6",
+            "#e7566e",
+            "#fcd541"
+        ],
+        "card_count": 183,
+        "data_bytes_estimate": 1606684,
+        "avg_image_bytes": 660117
+    },
+    {
+        "expansion_code": "swsh6",
+        "logo_url": "https://images.pokemontcg.io/swsh6/logo.png",
+        "palette": [
+            "#502768",
+            "#65c2d2",
+            "#f3b354"
+        ],
+        "card_count": 233,
+        "data_bytes_estimate": 2046175,
+        "avg_image_bytes": 624716
+    },
+    {
+        "expansion_code": "swsh7",
+        "logo_url": "https://images.pokemontcg.io/swsh7/logo.png",
+        "palette": [
+            "#6c033e",
+            "#d99924",
+            "#058e59"
+        ],
+        "card_count": 237,
+        "data_bytes_estimate": 2080572,
+        "avg_image_bytes": 596995
+    },
+    {
+        "expansion_code": "swsh8",
+        "logo_url": "https://images.pokemontcg.io/swsh8/logo.png",
+        "palette": [
+            "#e971a7",
+            "#059ebd",
+            "#262376"
+        ],
+        "card_count": 284,
+        "data_bytes_estimate": 2492753,
+        "avg_image_bytes": 626798
+    },
+    {
+        "expansion_code": "swsh9",
+        "logo_url": "https://images.pokemontcg.io/swsh9/logo.png",
+        "palette": [
+            "#f3d449",
+            "#0f4d73",
+            "#c8318b"
+        ],
+        "card_count": 186,
+        "data_bytes_estimate": 1633101,
+        "avg_image_bytes": 615591
+    },
+    {
+        "expansion_code": "swsh9tg",
+        "logo_url": "https://images.pokemontcg.io/swsh9tg/logo.png",
+        "palette": [
+            "#f3d449",
+            "#0f4d73",
+            "#c8318b"
+        ],
+        "card_count": 30,
+        "data_bytes_estimate": 263660,
+        "avg_image_bytes": 672200
+    },
+    {
+        "expansion_code": "swshp",
+        "logo_url": "https://images.pokemontcg.io/swshp/logo.png",
+        "palette": null,
+        "card_count": 304,
+        "data_bytes_estimate": 2671685,
+        "avg_image_bytes": 1148612
+    },
+    {
+        "expansion_code": "tk1a",
+        "logo_url": "https://images.pokemontcg.io/tk1a/logo.png",
+        "palette": [
+            "#03599c"
+        ],
+        "card_count": 10,
+        "data_bytes_estimate": 87620,
+        "avg_image_bytes": 1358949
+    },
+    {
+        "expansion_code": "tk1b",
+        "logo_url": "https://images.pokemontcg.io/tk1b/logo.png",
+        "palette": [
+            "#03599c"
+        ],
+        "card_count": 10,
+        "data_bytes_estimate": 87704,
+        "avg_image_bytes": 1414570
+    },
+    {
+        "expansion_code": "tk2a",
+        "logo_url": "https://images.pokemontcg.io/tk2a/logo.png",
+        "palette": [
+            "#03599c"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 105329,
+        "avg_image_bytes": 1220193
+    },
+    {
+        "expansion_code": "tk2b",
+        "logo_url": "https://images.pokemontcg.io/tk2b/logo.png",
+        "palette": [
+            "#03599c"
+        ],
+        "card_count": 12,
+        "data_bytes_estimate": 105270,
+        "avg_image_bytes": 1745623
+    },
+    {
+        "expansion_code": "xy0",
+        "logo_url": "https://images.pokemontcg.io/xy0/logo.png",
+        "palette": [
+            "#006a9b",
+            "#ca151b"
+        ],
+        "card_count": 39,
+        "data_bytes_estimate": 342088,
+        "avg_image_bytes": 645784
+    },
+    {
+        "expansion_code": "xy1",
+        "logo_url": "https://images.pokemontcg.io/xy1/logo.png",
+        "palette": [
+            "#006a9c",
+            "#c9161c"
+        ],
+        "card_count": 146,
+        "data_bytes_estimate": 1280502,
+        "avg_image_bytes": 684481
+    },
+    {
+        "expansion_code": "xy10",
+        "logo_url": "https://images.pokemontcg.io/xy10/logo.png",
+        "palette": [
+            "#df9626",
+            "#016da0"
+        ],
+        "card_count": 129,
+        "data_bytes_estimate": 1132153,
+        "avg_image_bytes": 607903
+    },
+    {
+        "expansion_code": "xy11",
+        "logo_url": "https://images.pokemontcg.io/xy11/logo.png",
+        "palette": [
+            "#086593",
+            "#d0141b"
+        ],
+        "card_count": 116,
+        "data_bytes_estimate": 1017761,
+        "avg_image_bytes": 613499
+    },
+    {
+        "expansion_code": "xy12",
+        "logo_url": "https://images.pokemontcg.io/xy12/logo.png",
+        "palette": [
+            "#0072a7",
+            "#dc181f",
+            "#e5e067"
+        ],
+        "card_count": 113,
+        "data_bytes_estimate": 991817,
+        "avg_image_bytes": 772757
+    },
+    {
+        "expansion_code": "xy2",
+        "logo_url": "https://images.pokemontcg.io/xy2/logo.png",
+        "palette": [
+            "#016ca8",
+            "#d1181e",
+            "#f6bf0a"
+        ],
+        "card_count": 110,
+        "data_bytes_estimate": 964944,
+        "avg_image_bytes": 634008
+    },
+    {
+        "expansion_code": "xy3",
+        "logo_url": "https://images.pokemontcg.io/xy3/logo.png",
+        "palette": [
+            "#015e8a",
+            "#cf171d"
+        ],
+        "card_count": 114,
+        "data_bytes_estimate": 1000060,
+        "avg_image_bytes": 701610
+    },
+    {
+        "expansion_code": "xy4",
+        "logo_url": "https://images.pokemontcg.io/xy4/logo.png",
+        "palette": [
+            "#006da0",
+            "#d2171d",
+            "#998006"
+        ],
+        "card_count": 124,
+        "data_bytes_estimate": 1087911,
+        "avg_image_bytes": 619264
+    },
+    {
+        "expansion_code": "xy5",
+        "logo_url": "https://images.pokemontcg.io/xy5/logo.png",
+        "palette": [
+            "#167fb5",
+            "#5b3c04",
+            "#9e1115"
+        ],
+        "card_count": 164,
+        "data_bytes_estimate": 1439232,
+        "avg_image_bytes": 610821
+    },
+    {
+        "expansion_code": "xy6",
+        "logo_url": "https://images.pokemontcg.io/xy6/logo.png",
+        "palette": [
+            "#f7cf2e",
+            "#a72710",
+            "#479b7c"
+        ],
+        "card_count": 112,
+        "data_bytes_estimate": 982575,
+        "avg_image_bytes": 660950
+    },
+    {
+        "expansion_code": "xy7",
+        "logo_url": "https://images.pokemontcg.io/xy7/logo.png",
+        "palette": [
+            "#cba448",
+            "#10475e",
+            "#ae141a"
+        ],
+        "card_count": 101,
+        "data_bytes_estimate": 886000,
+        "avg_image_bytes": 619067
+    },
+    {
+        "expansion_code": "xy8",
+        "logo_url": "https://images.pokemontcg.io/xy8/logo.png",
+        "palette": [
+            "#f5df49",
+            "#0276ae",
+            "#9f141a"
+        ],
+        "card_count": 165,
+        "data_bytes_estimate": 1447693,
+        "avg_image_bytes": 625573
+    },
+    {
+        "expansion_code": "xy9",
+        "logo_url": "https://images.pokemontcg.io/xy9/logo.png",
+        "palette": [
+            "#cc901e",
+            "#3699ce",
+            "#b61719"
+        ],
+        "card_count": 126,
+        "data_bytes_estimate": 1105347,
+        "avg_image_bytes": 611170
+    },
+    {
+        "expansion_code": "xyp",
+        "logo_url": "https://images.pokemontcg.io/xyp/logo.png",
+        "palette": null,
+        "card_count": 216,
+        "data_bytes_estimate": 1870685,
+        "avg_image_bytes": 1023523
+    },
+    {
+        "expansion_code": "zsv10pt5",
+        "logo_url": "https://images.pokemontcg.io/zsv10pt5/logo.png",
+        "palette": [
+            "#039bc4"
+        ],
+        "card_count": 171,
+        "data_bytes_estimate": 1501590,
+        "avg_image_bytes": 577357
+    }
+]

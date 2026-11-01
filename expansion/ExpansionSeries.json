@@ -1,0 +1,19 @@
+[
+{"id":1,"code":"Base","name":"Base"},
+{"id":2,"code":"Gym","name":"Gym"},
+{"id":3,"code":"Neo","name":"Neo"},
+{"id":4,"code":"Other","name":"Other"},
+{"id":5,"code":"E-Card","name":"E-Card"},
+{"id":6,"code":"EX","name":"EX"},
+{"id":7,"code":"NP","name":"NP"},
+{"id":8,"code":"POP","name":"POP"},
+{"id":9,"code":"Diamond & Pearl","name":"Diamond & Pearl"},
+{"id":10,"code":"Platinum","name":"Platinum"},
+{"id":11,"code":"HeartGold & SoulSilver","name":"HeartGold & SoulSilver"},
+{"id":12,"code":"Black & White","name":"Black & White"},
+{"id":13,"code":"XY","name":"XY"},
+{"id":14,"code":"Sun & Moon","name":"Sun & Moon"},
+{"id":15,"code":"Sword & Shield","name":"Sword & Shield"},
+{"id":16,"code":"Scarlet & Violet","name":"Scarlet & Violet"},
+{"id":17,"code":"Mega Evolution","name":"Mega Evolution"}
+]
